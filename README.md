@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am Rajat Sharma
+## I am Rajat Sharma
 I am a software developer passionate about Open source , Web development . I enjoy working on technologies like Javascript ,HTML, CSS, React
 
 Skills:   JS /REACT/ HTML / CSS
